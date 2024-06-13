@@ -15,7 +15,7 @@ Para executar este projeto, você precisará ter o seguinte software instalado e
 Primeiro, clone este repositório para sua máquina local usando o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-exemplo.git
+git clone https://github.com/douglasjordao/SAS-Uri-Example.git
 cd projeto-exemplo
 ```
 # Restaurando Pacotes do NuGet
